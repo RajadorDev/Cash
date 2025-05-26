@@ -1,0 +1,8 @@
+---
+name: Cash
+version: 1.0.0
+author: Rajador
+api: 2.0.0
+main: Cash\Plugin
+depend: SmartCommand
+...
